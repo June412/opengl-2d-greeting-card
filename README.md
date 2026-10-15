@@ -1,8 +1,18 @@
-# CPT205 2D Coursework
+# OpenGL 2D Greeting Card
 
 An interactive 2D greeting card celebrating XJTLU's 20th anniversary, built with
 C++, OpenGL and FreeGLUT for CPT205. Find the kitty with a lantern, guide it to
 the switch, and light up the campus with fireworks.
+
+## Academic Context
+
+| Field | Details |
+| --- | --- |
+| University | Xi'an Jiaotong-Liverpool University (XJTLU) |
+| Module | CPT205 — Computer Graphics |
+| Project type | Individual coursework |
+| Author | Junyan He |
+| Academic year | 2025–2026 |
 
 ## Project Files
 
