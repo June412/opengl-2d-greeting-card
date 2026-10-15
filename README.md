@@ -4,6 +4,8 @@
 
 An interactive greeting card built with C++ and OpenGL. Find the cat with a lantern, guide it to the switch, and light up the campus with fireworks.
 
+[Project report](CPT205_Greeting_Card_Report.pdf) · [Source code](task1.cpp)
+
 ## Run
 
 On Windows, run from the project folder:
